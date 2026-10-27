@@ -29,7 +29,7 @@ SSAI (annunci cuciti nel flusso, Yospace) per la piattaforma `smarttv` è **disa
 
 ## Requisiti
 
-- TV LG con webOS **rootata** (es. [rootmy.tv](https://rootmy.tv)) e accesso SSH come root.
+- TV LG con webOS **rootata** (es. [slopbro](https://github.com/throwaway96/slopbro)) e accesso SSH come root.
 - Nessun server DNS, nessun reverse proxy.
 - Facoltativo, solo per investigare: PC con Chrome, e (non necessario) Homebrew Channel.
 
